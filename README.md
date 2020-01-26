@@ -1,12 +1,12 @@
 # Javascript Scoping
 
 <ul>
-  <li><a href="javascript" title="Global Scope">Global Scope</a></li>
-  <li><a href="javascript" title="Local Scope">Local Scope</a></li>
-  <li><a href="javascript" title="Block Scope">Block Scope</a></li>
-  <li><a href="javascript" title="Lexical Scope">Lexical Scope</a></li>
-  <li><a href="javascript" title="Closures">Closures</a></li>
-  <li><a href="javascript" title="Public and Private Scope">Public and Private Scope</a></li>
+  <li><a href="#global-scope" title="Global Scope">Global Scope</a></li>
+  <li><a href="#local-scope" title="Local Scope">Local Scope</a></li>
+  <li><a href="#block-statements" title="Block Scope">Block Scope</a></li>
+  <li><a href="#lexical-scope" title="Lexical Scope">Lexical Scope</a></li>
+  <li><a href="#closures" title="Closures">Closures</a></li>
+  <li><a href="#public-and-private-scope" title="Public and Private Scope">Public and Private Scope</a></li>
 </ul>
 
 #### Global Scope
